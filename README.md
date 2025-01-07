@@ -1,4 +1,4 @@
-# Template_Repository
+# Template-Repository
 
 ## Purpose
 
