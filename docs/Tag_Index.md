@@ -10,18 +10,6 @@ This page lists all tags used in the knowledge base and links to the pages assoc
 
 - **Code Standards**: [Development/Code_Standards.md](Development/Code_Standards.md)
 
-### Marketing
-
-- **Strategies**: [Marketing/Strategies.md](Marketing/Strategies.md)
-
-### Sales
-
-- **Lead Management**: [Sales/Lead_Management.md](Sales/Lead_Management.md)
-
-### HR
-
-- **Policies**: [HR/Policies.md](HR/Policies.md)
-
 ## Instructions for Using Tags and Labels
 
 1. **Tag Pages with Relevant Keywords**: Add tags to each page to make it easier to find related content. Use keywords that accurately describe the content of the page.
